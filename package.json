@@ -1,0 +1,13 @@
+{
+    "name": "your-project",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "server.mjs",
+    "scripts": {
+        "start": "node run_server.mjs"
+    },
+    "dependencies": {
+        "express": "^4.19.2",
+        "mysql2": "^3.11.0"
+    }
+}
